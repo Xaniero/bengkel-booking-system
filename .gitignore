@@ -1,0 +1,11 @@
+# Folder library Composer (bisa diinstall ulang dengan: composer install)
+/vendor/
+
+# File rahasia berisi password (JANGAN diupload).
+# .env.example tetap diupload sebagai contoh.
+.env
+
+# File sistem
+.DS_Store
+Thumbs.db
+*.log
